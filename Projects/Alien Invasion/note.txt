@@ -1,0 +1,1 @@
+Install package pygame to run game
